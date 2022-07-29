@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Front-end web development(HTML and CSS).
 - 💞️ I’m looking to collaborate on making various project by using HTML AND CSS 
-- 📫 Reach me through Twitter - @swaduballak.
+- 📫 Reach me through Twitter - www.twitter.com/swaduballak .
      Email - kapilrohilla2002@gmail.com
 
 <!---

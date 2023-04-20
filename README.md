@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript and it's framework<br>💬 Ask me about JavaScript, ReactJS<br>
+🌱 I’m currently learning JavaScript and it's framework<br>💬 Ask me about JavaScript, ReactJS<br>🖃 Connect through kapilrohilla2002@gmail.com
 
 
 ## 🌐 Socials:

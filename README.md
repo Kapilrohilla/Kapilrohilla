@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN stack, Linux
+🌱 I’m currently learning MERN, React-Native
 
 
 ## 🌐 Socials:

@@ -51,13 +51,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-- **[CloudDrive](https://github.com/kapilrohilla/clouddrive)** — Cloud storage platform with FastAPI, PostgreSQL, Redis, and AWS S3 presigned uploads, plus a full IAM/RBAC layer
-- **[SaikouHerbs](https://github.com/kapilrohilla/saikouherbs)** — E-commerce platform integrating Amazon Seller API, Razorpay, and Stripe
-
 ---
 
 ### 📊 GitHub Stats

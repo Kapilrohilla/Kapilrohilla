@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kapil Rohilla</h1>
-<h3 align="center">Backend Software Engineer building payments & settlement infrastructure at scale</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kapilrohilla2002"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kapilrohilla2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
+# Kapil Rohilla
 ### 🧭 About Me
-- 🔭 SDE-2 at **Carrum Mobility**, working on payment orders, ledger, and settlement systems processing ₹6Cr+ in monthly transaction volume
-- ⚙️ Focused on backend systems, async processing, caching, and third-party API integrations
-- 🌱 Currently exploring distributed systems patterns and deeper Kafka-based event architectures
-- 💬 Ask me about payment infra, REST/RPC API design, or Redis-based performance optimization
-- 📫 Reach me at **kapilrohilla2002@gmail.com**
+- Ask me about Typescript, NodeJs, ReactJs, React Native, Python
+- Focused on backend systems, async processing, caching, and third-party API integrations
+- Currently exploring distributed systems patterns and deeper Kafka-based event architectures
+- Ask me about payment infra, REST/RPC API design, or Redis-based performance optimization
+- Employ at ![Carrum Mobility](https://github.com/CarrumMobility)
+- Reach me at **kapilrohilla2002@gmail.com**
 
 ---
 
